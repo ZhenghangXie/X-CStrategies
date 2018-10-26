@@ -1,4 +1,5 @@
 # X-CStrategies
-目前研究的几个数字货币交易策略
 
-正在进行实盘检验当中
+trading strategies of BTC and BCH contracts
+
+3 CTA strategies and 1 Arbitrage
